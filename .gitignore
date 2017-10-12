@@ -1,0 +1,5 @@
+/.idea
+*.txt
+*.trace
+*.disksim
+/__pycache__
